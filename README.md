@@ -12,3 +12,8 @@ Basic extension for hide the registration dialog in the [Nacion](http://www.naci
 6. Navigate to the decompress folder and select it
  
 That's all, now you can use the [Nacion](http://www.nacion.com) without the awkward registration dialog.
+
+
+##Added support
+1. For ["Al dia"](http://www.aldia.cr)
+2. For ["El financiero"](www.elfinancierocr.com)
