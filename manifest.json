@@ -15,7 +15,7 @@
 	},
 	"content_scripts": [
 		{
-			"matches": ["http://www.nacion.com/*"],
+			"matches": ["http://www.nacion.com/*", "http://www.elfinancierocr.com/*", "http://www.aldia.cr/*"],
 			"css": ["remove-modal.css"],
 			"run_at": "document_start"
 		}
